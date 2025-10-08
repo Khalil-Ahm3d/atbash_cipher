@@ -61,7 +61,7 @@ python atbash_cipher.py
 
 **Name and Role**
 
-**Khalil Ahmed**	(Team Lead)
+**Khalil Ahmed**(Team Lead)
 **Noman** (Member)
 
 # Output Example
