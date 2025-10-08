@@ -39,7 +39,14 @@ Svool, Dliow!
 
 
 ##  How to Run
-1. Clone this 
+---
+
+## ⚙️ How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Khalil-Ahm3d/atbash_cipher.git
+   cd atbash_cipher
+
 2. Run the script:
 
 python atbash_cipher.py
