@@ -39,7 +39,7 @@ Svool, Dliow!
 
 
 ##  How to Run
-1. Clone this repository:
+1. Clone this 
 2. Run the script:
 
 python atbash_cipher.py
@@ -49,14 +49,14 @@ python atbash_cipher.py
 
 
 
-#**Team Members**
+# Team Members
 
 **Name and Role**
 
 **Khalil Ahmed**	(Team Lead)
 **Noman** (Member)
 
-**Output Example**
+# Output Example
 
   Atbash Cipher Program 
 Enter text to encrypt: Python 3.11!
